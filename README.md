@@ -11,5 +11,5 @@ Download the latest community-listfile.csv listfile from [the wow-listfile repo]
 Arguments:  `ADTHeightDump.exe <wowProd> (wowDir)`  
 
 ### Examples
- `ADTHeightDump.exe wowt` (streams from CDN, slower)    
- `ADTHeightDump.exe wowt "C:\World of Warcraft"` (uses locally installed client)
+ `ADTHeightDump.exe wowt` (load WoW PTR, streams from CDN, slower)    
+ `ADTHeightDump.exe wow "C:\World of Warcraft"` (load WoW retail, uses locally installed client)
