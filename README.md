@@ -1,5 +1,5 @@
 # ADTHeightDump
-Dumps tileset metadata from ADT files from World of Warcraft.
+Dumps tileset metadata from World of Warcraft ADT files to a JSON file.
 
 ## Download
 Binaries (and source) for the latest release can be found on the [releases page](https://github.com/Marlamin/ADTHeightDump/releases).
